@@ -22,3 +22,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 Special thanks to the creators of the dataset and the open-source community for their valuable contributions to the libraries and tools used in this project.
+
+# Access the repository
+You can visit the repository on GitHub by clicking here: https://github.com/GiorgosZiakas/TelemarketingPredictiveModel
+
+# Clone Repository
+If you prefer to use Git, you can clone the repository by running the following command in your terminal:
+git clone https://github.com/GiorgosZiakas/TelemarketingPredictiveModel.git
+
